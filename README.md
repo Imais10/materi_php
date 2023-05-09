@@ -1,0 +1,11 @@
+# materi_php
+1. latihan1.php
+![Screenshot (12)](https://user-images.githubusercontent.com/123276950/237014746-fc626a5c-194a-401e-82bc-dbee73b5b71c.png)
+2. latihan2.php
+![Screenshot (13)](https://user-images.githubusercontent.com/123276950/237014954-95c2d246-ee57-47b5-8a71-c24408887fb3.png)
+3. latihan3.php
+![Screenshot (16)](https://user-images.githubusercontent.com/123276950/237015106-c9998200-b55a-4219-94ab-4e1923fb8a3f.png)
+4. latihan4.php
+![Screenshot (14)](https://user-images.githubusercontent.com/123276950/237015188-928bbdb3-6568-472b-a09e-3dd154d2f33b.png)
+5. latihan5.php
+![Screenshot (17)](https://user-images.githubusercontent.com/123276950/237015449-ea991f83-4bdb-49b2-ad08-401f001647a7.png)
